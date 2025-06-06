@@ -1,7 +1,3 @@
-Here's an updated **README** tailored to your CLI-based caching proxy tool that uses `yargs` and supports `start` and `clear` commands:
-
----
-
 # ⚡ Caching Proxy Server (CLI Tool)
 
 A simple and effective CLI-based HTTP caching proxy built with **Node.js**, **Express**, and **Redis**.
